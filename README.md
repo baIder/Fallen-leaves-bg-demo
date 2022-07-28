@@ -4,5 +4,5 @@
 
 ## 预览链接
 
-[点击这里](https://git.balder.wang/Fallen-leaves-bg-demo/)
+[点击这里](https://git.balder.wang/Fallen-leaves-bg-demo/dist/)
 
